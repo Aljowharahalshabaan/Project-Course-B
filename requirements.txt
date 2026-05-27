@@ -1,0 +1,22 @@
+Requirements
+Python Packages Used
+
+The following Python packages were used in this project:
+
+pandas
+numpy
+scikit-learn
+scipy
+tensorflow
+keras
+gradio
+pickle
+
+Description of Packages
+pandas: Used for data loading and manipulation.
+numpy: Used for numerical operations and array handling.
+scikit-learn: Used for machine learning models, preprocessing, and evaluation metrics.
+scipy: Used for handling sparse matrices and feature combination (hstack).
+tensorflow / keras: Used to build and train the Neural Network model.
+gradio: Used to create the web interface for the model.
+pickle: Used to save and load trained models and encoders.
